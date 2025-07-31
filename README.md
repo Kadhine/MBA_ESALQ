@@ -1,1 +1,2 @@
-README [dados_geral.xlsx](https://github.com/Kadhine/MBA_ESALQ/files/15018088/dados_geral.xlsx)
+Esta análise aborda a problemática da insegurança alimentar no Brasil. O objetivo geral consistiu em analisar a evolução temporal da insegurança alimentar, utilizando dados da "Food Insecurity experience scale Brazil" da “Food and Agriculture Organization of the United Nations”, referentes ao período entre 2014 e 2022. A metodologia incluiu a coleta e processamento dos dados no “IBM SPSS Statistics” e “Microsoft Excel”, seguida pela categorização e compilação, e análises específicas por nível
+de renda, educação e gênero no “software R”.
